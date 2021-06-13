@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! I'm Anirudh Roy.
 
-<!--
-**ANIRUDH-19BCS6136/ANIRUDH-19BCS6136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on KPMG database
+- 🌱 I’m currently learning Web Scrapping
+- 👯 I’m looking to collaborate on Machine Learning modelling
+- 🤔 I’m looking for help with Flutter
+- 💬 Ask me about DSA problems
+- 📫 How to reach me https://www.linkedin.com/in/anirudh-roy
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Fun = Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-19BCS6136&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
