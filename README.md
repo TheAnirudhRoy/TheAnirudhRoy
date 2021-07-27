@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-19bcs6136&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-19bcs6136" /> </p>
 
 - 🔭 I’m currently working as a Data Analyst Intern @TSF
-- 🌱 I’m currently learning Web Scrapping
+- 🌱 I’m currently learning Deep Learning & Neural Networks
 - 👯 I’m looking to collaborate on Machine Learning modelling
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about DSA problems
