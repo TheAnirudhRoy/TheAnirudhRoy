@@ -9,6 +9,7 @@
 - 💬 Ask me about DSA problems
 - 😄 Pronouns: He/His
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=ANIRUDH-19BCS6136&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <h3 align="left">Connect with me:</h3>
