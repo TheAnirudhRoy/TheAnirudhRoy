@@ -1,4 +1,5 @@
-<h1 align="center">Hi ! I'm Anirudh Roy. </h1>
+![Anirudh Banner](https://github.com/ANIRUDH-19BCS6136/ANIRUDH-19BCS6136/blob/main/GitHub_Banner.png)
+<h1 align="center">Hi. Nice to meet you ! </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-19bcs6136&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-19bcs6136" /> </p>
 
