@@ -6,7 +6,7 @@
 - 🔭 Working experience as a Data Analyst Intern @TSF
 - 🌱 I’m currently learning Deep Learning & Neural Networks
 - 👯 I’m looking to collaborate on Machine Learning modelling
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with Web Dev
 - 💬 Ask me about DSA problems
 - 😄 Pronouns: He/His
 
