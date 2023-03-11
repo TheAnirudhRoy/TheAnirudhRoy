@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-19bcs6136&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-19bcs6136" /> </p>
 
-- 🔭 Working experience as a Data Analyst Intern @TSF
-- 🌱 I’m currently learning Deep Learning & Neural Networks
+- 🔭 Working experience as a Data Analyst Intern @ Axtria Pvt Ltd.
+- 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Machine Learning modelling
-- 🤔 I’m looking for help with Web Dev
+- 🤔 I’m looking for help with Android Development
 - 💬 Ask me about DSA problems
 - 😄 Pronouns: He/His
 
