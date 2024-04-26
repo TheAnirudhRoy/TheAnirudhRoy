@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-19bcs6136&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-19bcs6136" /> </p>
 
-- 🔭 Working experience as a Data Analyst Intern @ Axtria Pvt Ltd.
+- 🔭 Working experience as a SDE @ First American Financial (India).
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Machine Learning modelling
 - 🤔 I’m looking for help with Android Development
